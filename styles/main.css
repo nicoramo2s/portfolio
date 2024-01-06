@@ -398,10 +398,6 @@
   padding: 150px 0;
   text-align: center;
 }
-
-#contactos .text_title_section::after {
-  display: none;
-}
 #contactos .container_description_section {
   grid-template-columns: 1fr;
   width: 80%;
