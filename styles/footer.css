@@ -1,15 +1,12 @@
 /* css del footer */
 .footer{
     width: 100%;
-
     display: flex;
     align-items: center;
     flex-direction: column;
 }
 .container_links_footer{
     padding: 10px 0;
-
-    display: none;
 }
 .links_items_footer{
     list-style: none;
