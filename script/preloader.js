@@ -9,8 +9,8 @@ window.addEventListener("load",function(){
         setTimeout(() => {
             this.document.body.setAttribute("style","overflow: visible;");
             animaciones();
-        }, 500);
-    }, 500);
+        }, 400);
+    }, 400);
 });
 
 function animaciones(){
