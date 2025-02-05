@@ -320,6 +320,7 @@
 
 .description_card_proyect {
   position: relative;
+  z-index: 10;
 }
 
 /* 
